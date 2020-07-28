@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hey, what's up? 😋
 
-<!--
-**ThatsZman/thatszman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm ThatsZman, and I do a lot of things.... I code, video edit, and do graphic design. *if you want to reach out to me, head to my site and fill out the contact form*
 
-Here are some ideas to get you started:
+#### 🤔 - What I have experience in:
+##### Coding:
+- HTML
+- CSS
+- JS
+- WP
+- Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Graphic Design Applications:
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe XD
+
+##### Video Editing
+- Adobe Premiere Pro
+- Adobe After Effects
+- Adobe Media Encoder
+- Final Cut Pro X
+
+-----------------------
+
+#### 🌱 - What I am currently learning:
+- PHP
+- More JS
+- More Lua
+- Python
+
+-------------------------
+
+#### 👨‍💻 - What I am currently working on:
+- ThatsZman.com
+- Some Lua stuff.
+
+-------------------------
+
+#### 📮 - How to get in contact:
+- Head to my website
+- @ me on Twitter
+
+--------------------------
+
+Thanks for checking out my profile! 😊
