@@ -1,6 +1,8 @@
 ## Hey, what's up? 😋
 
-### I'm ThatsZman, and I do a lot of things.... I code, video edit, and do graphic design. *if you want to reach out to me, head to my site and fill out the contact form*
+### I'm ThatsZman, and I do a lot of things.... I code, video edit, and do graphic design. 
+
+*Note: if you want to reach out to me, head to the bottom of the Readme.md file.*
 
 #### 🤔 - What I have experience in:
 ##### Coding:
