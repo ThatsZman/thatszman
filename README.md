@@ -21,7 +21,6 @@
 - Adobe Premiere Pro
 - Adobe After Effects
 - Adobe Media Encoder
-- Final Cut Pro X
 
 -----------------------
 
