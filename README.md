@@ -40,7 +40,6 @@
 
 #### 📮 - How to get in contact:
 - Head to my website
-- @ me on Twitter
 
 --------------------------
 
