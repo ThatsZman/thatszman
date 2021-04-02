@@ -9,7 +9,7 @@
 - HTML
 - CSS
 - JS
-- WP
+- PHP
 - Lua
 
 ##### Graphic Design Applications:
@@ -25,7 +25,6 @@
 -----------------------
 
 #### 🌱 - What I am currently learning:
-- PHP
 - More JS
 - More Lua
 - Python
